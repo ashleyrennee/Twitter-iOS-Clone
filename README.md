@@ -24,3 +24,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/Qapwx88zmk.gif' />
 
+<img src= 'https://recordit.co/gT5XG5nf9o' />
